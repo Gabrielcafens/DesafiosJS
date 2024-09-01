@@ -1,0 +1,15 @@
+{
+  "name": "desafiosjs",
+  "version": "1.0.0",
+  "description": "Repositório com soluções para os desafios propostos",
+  "main": "index.js",
+  "scripts": {
+    "questao1": "node questao1/index.js",
+    "questao2": "node questao2/index.js",
+    "questao3": "node questao3/index.js",
+    "questao4": "node questao4/index.js",
+    "questao5": "node questao5/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
